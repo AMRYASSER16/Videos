@@ -1,0 +1,6 @@
+.item{
+    display: grid !important;
+    grid-template-columns: repeat(2, 44% 56%);
+    align-items: center;
+    cursor: pointer;
+}
